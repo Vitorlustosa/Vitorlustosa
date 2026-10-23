@@ -30,7 +30,7 @@ Aplico os princípios de engenharia no ciclo de vida do desenvolvimento, com foc
 ## 💻 Desenvolvimento Web & Back-end
 Possuo experiência acadêmica na construção de sistemas e serviços:
 * **APIs REST:** Desenvolvimento de serviços no back-end utilizando **Node.js** e **TypeScript**.
-* **Bancos de Dados:** Aprofundamento em modelagem e consultas utilizando **SQL** e **PostgreSQL**, com foco avançado em **PL/SQL**.
+* **Bancos de Dados:** Aprofundamento em modelagem e consultas utilizando **SQL** e **SQLite**, com foco  em **PL/SQL**.
 * **Fundamentos Sólidos:** Conhecimento prático em **Python** e **C**, além de vivência com ambientes **Linux**.
 
 > **Projeto de Destaque - VaiPelaSombra:** Plataforma web de planejamento e organização de viagens.
